@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include <windows.h>
 
-
+//sdding comments!:
 
 int grid[10] = {2,2,2,2,2,2,2,2,2,2};
 
