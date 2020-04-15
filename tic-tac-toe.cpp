@@ -4,6 +4,7 @@
 #include <windows.h>
 
 //sdding comments!:
+//sddef 1 morecomment!
 
 int grid[10] = {2,2,2,2,2,2,2,2,2,2};
 
