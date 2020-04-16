@@ -26,9 +26,10 @@ int  main()
     	system("cls");
     	menu();
     	getch();
-		return 0;
+	return 0;
 	}
 
+//menu function
 void menu()
 {
 	int choice;
