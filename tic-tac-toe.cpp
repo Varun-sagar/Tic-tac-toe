@@ -68,7 +68,7 @@ void gotoxy(int x,int y)
 }
 
 
-
+//added posswin comment!!!
 int posswin(int p)
 {
 // p==1 then X   p==0  then  O
